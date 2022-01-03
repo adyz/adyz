@@ -1,1 +1,1 @@
-<img alt="Hello Character" src="https://res.cloudinary.com/adrianf/image/upload/c_scale,f_auto,w_1228/v1639497017/Screenshot_2021-12-14_at_17.49.03_vfstmp.jpeg">
+<img alt="Hello Character" src="https://res.cloudinary.com/adrianf/image/upload/v1641224126/WhatsApp_Image_2022-01-03_at_12.42.15_PM_pyhdkg.jpg">
